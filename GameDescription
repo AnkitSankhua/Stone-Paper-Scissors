@@ -1,10 +1,15 @@
-"Stone Paper Scissors" is a simple hand game that is often used as a decision-making tool between two people. It's typically played between two players who simultaneously form one of three shapes with an outstretched hand. The possible shapes are:
+"Stone Paper Scissors" is a simple hand game that is often used as a decision-making tool between two people. 
+It's typically played between two players who simultaneously form one of three shapes with an outstretched hand. 
+
+The possible shapes are:
 
 1. Stone (also known as Rock): Represented by a fist. It defeats Scissors but is defeated by Paper.
 2. Paper: Represented by an open hand. It defeats Stone but is defeated by Scissors.
 3. Scissors: Represented by a fist with the index and middle fingers extended, forming a V. It defeats Paper but is defeated by Stone.
 
-The game is usually played in a best-of-three format or any predetermined number of rounds. The winner of each round is determined by the rules mentioned above: Stone defeats Scissors, Scissors defeat Paper, and Paper defeats Stone. If both players choose the same shape, the round is usually considered a tie and may not count towards the overall score.
+The game is usually played in a best-of-three format or any predetermined number of rounds. 
+The winner of each round is determined by the rules mentioned above: Stone defeats Scissors, Scissors defeat Paper, and Paper defeats Stone. 
+If both players choose the same shape, the round is usually considered a tie and may not count towards the overall score.
 
 Here's how a typical game might play out:
 
@@ -12,4 +17,5 @@ Here's how a typical game might play out:
 2. Player A chooses Scissors, and Player B chooses Paper. Player A wins because Scissors defeat Paper.
 3. Player A chooses Stone, and Player B chooses Scissors. Player A wins because Stone defeats Scissors.
 
-In this example, Player A wins all three rounds and wins the overall game. The simplicity and randomness of the game make it a popular choice for quick decision-making, as well as a fun and light-hearted activity.
+In this example, Player A wins all three rounds and wins the overall game. 
+The simplicity and randomness of the game make it a popular choice for quick decision-making, as well as a fun and light-hearted activity.
