@@ -24,7 +24,7 @@ while True:
     if userInput == computerChoice:
         print("No points as its a Draw !")
 
-    if userInput == "s" and computerChoice == "x":
+    elif userInput == "s" and computerChoice == "x":
         print("You Won !!!")
         userWins +=1
     elif userInput == "p" and computerChoice == "s":
