@@ -57,4 +57,6 @@ print("        |     COMPUTER    |")
 print("        |    ",computerWins,  "times...  |")
 print("        |-----------------|")
 
+print("GoodBye!")
+
 
