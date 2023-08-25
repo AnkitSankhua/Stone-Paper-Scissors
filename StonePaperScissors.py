@@ -25,12 +25,18 @@ while True:
         print("No points as its a Draw !")
 
     elif userInput == "s" and computerChoice == "x":
+        print("You Chose : Stone ")
+        print("Compuer Chose : Scissors ")
         print("You Won !!!")
         userWins +=1
     elif userInput == "p" and computerChoice == "s":
+        print("You Chose : Paper ")
+        print("Compuer Chose : Stone ")
         print("You Won !!!")
         userWins +=1
     elif userInput == "x" and computerChoice == "p":
+        print("You Chose : Scissors ")
+        print("Compuer Chose : Paper ")
         print("You Won !!!")
         userWins +=1
 
